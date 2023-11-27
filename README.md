@@ -14,7 +14,7 @@ Designing Smart Domotics Solution - Environmental sensing and Automation
 - Infineon S2GO PRESSURE DPS368  
 - Infineon EVAL PASCO2 MINIBOARD  
 - Itead Nextion NX4024T032 LCD Touch Display Module  
-- 
+
 </br>
 
 <img src="/Images/kit.JPG" height="250" >  
