@@ -26,6 +26,7 @@ Designing Smart Domotics Solution - Environmental sensing and Automation
 - Cypress PSoC Creator  
 - Microsoft VS Code  
 - PlatformIO IDE  
+  
 </br>
 
 #### 📜 Hackster Project  
