@@ -5,7 +5,7 @@
   
 
 Designing Smart Domotics Solution - Environmental sensing and Automation  
-
+*Project is under development*  
 
 #### 🛠 Hardware  
 - Infineon PSoC™ 62S2 Wi-Fi BT Pioneer Kit  
