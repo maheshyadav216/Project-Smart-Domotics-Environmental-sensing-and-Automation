@@ -1,7 +1,7 @@
 # Smart Domotics - Environmental sensing and Automation
 *Hackster Infinion Contest - Connect things with code! with Infineon*  
   
-<img src="/Images/conthings.jpg" height="250" >
+<img src="/Images/conthings.JPG" height="250" >
   
 
 Designing Smart Domotics Solution - Environmental sensing and Automation  
@@ -17,7 +17,7 @@ Designing Smart Domotics Solution - Environmental sensing and Automation
 - 
 </br>
 
-<img src="/Images/kit.jpg" height="250" >  
+<img src="/Images/kit.JPG" height="250" >  
 
 #### 💻 Software  
 - PSoC Creator IDE  
