@@ -41,13 +41,15 @@ Designing Smart Domotics Solution - Environmental sensing and Automation
 -------------------------------------------------------------------------------------------------------
 📒 **Important Links**  
  
-🔗 https://www.infineon.com/cms/en/product/evaluation-boards/cy8ckit-041-41xx/  
+🔗 https://www.hackster.io/infineon/products/psoc-62s2-wi-fi-bt-pioneer-kit?ref=project-b6ead6  
 
-🔗 https://www.hackster.io/contests/capsense  
+🔗 https://www.hackster.io/infineon/products/xmc4200-platform2go?ref=project-b6ead6  
 
-🔗 https://www.hackster.io/Infineon_Team/infineon-technologies-capsense-using-psoc4-cyckit-041-41xx-f66c20  
+🔗 https://www.hackster.io/infineon/products/s2go-memsmic-im69d-mems-microphone?ref=project-b6ead6    
 
-🔗 https://www.infineon.com/cms/en/product/microcontroller/32-bit-psoc-arm-cortex-microcontroller/psoc-4-32-bit-arm-cortex-m0-mcu/  
+🔗 https://www.hackster.io/infineon/products/s2go-pressure-dps368?ref=project-b6ead6  
+
+🔗 https://www.hackster.io/infineon/products/eval-pasco2-miniboard?ref=project-b6ead6  
 
 ------------------------------------------------------------------------------------------  
 
